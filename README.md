@@ -52,17 +52,3 @@ Create an elbow plot to identify the best number of clusters. Make sure to do th
 ### Part 4: Make a Recommendation
 
 Based on your findings, write up a brief (one or two sentences) recommendation for your supervisor in your Jupyter Notebook. Can the patients be clustered? If so, into how many clusters?
-
-## Rubric
-
-[Unit 20 Homework Rubric](https://docs.google.com/document/d/1046PZMnFwxcNkyIewuJc_RYhaErY42HoNUKORkh18A4/edit)
-
-- - -
-
-## References
-
-Reduced dataset from [Orinda Longitudinal Study of Myopia conducted by the US National Eye Institute](https://clinicaltrials.gov/ct2/show/NCT00000169)
-
-- - -
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
